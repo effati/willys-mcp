@@ -1,0 +1,35 @@
+# Binaries
+willys-mcp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
+
+# Environment variables
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.claude/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

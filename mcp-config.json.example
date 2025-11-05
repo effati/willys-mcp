@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "willys": {
+      "command": "/path/to/willys-mcp",
+      "env": {
+        "WILLYS_USERNAME": "your-email@example.com",
+        "WILLYS_PASSWORD": "your-password",
+        "WILLYS_BASE_URL": "https://www.willys.se"
+      }
+    }
+  }
+}
+
