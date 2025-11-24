@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/shayan/willys-mcp/internal/willys"
+	"github.com/effati/willys-mcp/internal/willys"
 )
 
 func parseComparePrice(priceStr string) float64 {

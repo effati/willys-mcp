@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/effati/willys-mcp/internal/willys"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
-	"github.com/shayan/willys-mcp/internal/willys"
 )
 
 type Server struct {

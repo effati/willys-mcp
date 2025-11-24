@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
+	"github.com/effati/willys-mcp/internal/willys"
+	"github.com/effati/willys-mcp/pkg/mcp"
 	"github.com/joho/godotenv"
-	"github.com/shayan/willys-mcp/internal/willys"
-	"github.com/shayan/willys-mcp/pkg/mcp"
 )
 
 func main() {

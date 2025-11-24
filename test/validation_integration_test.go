@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/shayan/willys-mcp/internal/willys"
+	"github.com/effati/willys-mcp/internal/willys"
 )
 
 func TestInvalidProductCode(t *testing.T) {

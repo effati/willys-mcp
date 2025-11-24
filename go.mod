@@ -1,16 +1,18 @@
-module github.com/shayan/willys-mcp
+module github.com/effati/willys-mcp
 
 go 1.23.7
 
-require github.com/mark3labs/mcp-go v0.42.0
+require (
+	github.com/go-rod/rod v0.116.2
+	github.com/joho/godotenv v1.5.1
+	github.com/mark3labs/mcp-go v0.42.0
+)
 
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
-	github.com/go-rod/rod v0.116.2 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/invopop/jsonschema v0.13.0 // indirect
-	github.com/joho/godotenv v1.5.1 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/spf13/cast v1.7.1 // indirect
 	github.com/wk8/go-ordered-map/v2 v2.1.8 // indirect

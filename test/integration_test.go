@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
+	"github.com/effati/willys-mcp/internal/willys"
 	"github.com/joho/godotenv"
-	"github.com/shayan/willys-mcp/internal/willys"
 )
 
 func init() {

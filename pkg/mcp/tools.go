@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/effati/willys-mcp/internal/willys"
 	"github.com/mark3labs/mcp-go/mcp"
-	"github.com/shayan/willys-mcp/internal/willys"
 )
 
 type ToolHandler struct {
